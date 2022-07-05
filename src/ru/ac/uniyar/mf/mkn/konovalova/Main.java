@@ -9,7 +9,6 @@ public class Main {
         int num1 = in.nextInt();
         String str = in.next();
         int num3 = in.nextInt();
-        int t = 2;
         System.out.println(num1 + " " + str + " " + num3);
         int result = 0;
         switch (str) {
